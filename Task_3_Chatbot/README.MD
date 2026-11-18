@@ -43,4 +43,8 @@ for the internship task.
 
 ## Author
 
+Mahaman Warsou Laouali Zeinab 
+
+## Internship Program
+
 Datheon Python Programming Internship
